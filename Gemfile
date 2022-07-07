@@ -11,4 +11,5 @@ gemspec
 # your gem to rubygems.org.
 
 gem "rails", "~> 7.0", ">= 7.0"
+gem 'sprockets-rails'
 gem 'pry', group: [:development, :test]
